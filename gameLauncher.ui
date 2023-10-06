@@ -59,7 +59,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Druk dit!</string>
+     <string>Druk dit en dan doet het iets!</string>
     </property>
    </widget>
    <widget class="QLabel" name="logo">
@@ -115,7 +115,7 @@
     </property>
     <property name="geometry">
      <rect>
-      <x>1370</x>
+      <x>1600</x>
       <y>30</y>
       <width>111</width>
       <height>51</height>
@@ -140,7 +140,7 @@
    <widget class="QPushButton" name="restart">
     <property name="geometry">
      <rect>
-      <x>1370</x>
+      <x>1600</x>
       <y>100</y>
       <width>111</width>
       <height>51</height>
