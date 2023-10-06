@@ -59,7 +59,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Druk dit en dan doet het iets!</string>
+     <string>Druk dit!</string>
     </property>
    </widget>
    <widget class="QLabel" name="logo">
