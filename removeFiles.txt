@@ -1,0 +1,4 @@
+"background.png",
+"gameLauncher.ui",
+"logo.ico",
+"logo.png"
