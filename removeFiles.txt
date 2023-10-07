@@ -2,6 +2,3 @@ background.png
 gameLauncher.ui
 logo.ico
 logo.png
-1.txt
-2.txt
-mooi.exe
