@@ -1,3 +1,3 @@
-1.txt
-2.txt
-mooi.exe
+mooi/1.txt
+mooi/2.txt
+mooi/mooi.exe
